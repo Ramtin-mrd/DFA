@@ -1,5 +1,3 @@
-#Ramtin Moradi 40129503
-
 import xml.etree.cElementTree as ET
 
 try:
